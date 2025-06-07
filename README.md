@@ -54,20 +54,6 @@ A simple Android **Dice Game** application built using **Kotlin** and **Jetpack 
 
 ---
 
-## 📂 Project Structure
-
-```
-MainActivity.kt
-└── DiceGame() - Main composable that controls screen navigation
-    ├── GameMenu() - Menu screen
-    ├── AboutScreen() - About screen with AlertDialog
-    ├── GameScreen() - Main gameplay screen
-        ├── DiceRow() - Displays a row of dice images
-        ├── DiceImage() - Helper function to map dice number to drawable resource
-```
-
----
-
 ## 🎓 Author Info
 
 - **Student ID**: 20230341  
