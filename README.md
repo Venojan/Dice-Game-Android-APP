@@ -74,3 +74,9 @@ This project is created for educational and academic purposes.
 - Android Studio
 - Jetpack Compose documentation
 - Open source dice images used as drawable resources
+
+---
+
+## 🙋‍♂️ Developed by
+
+**Venojan Shanmugarajah**  
